@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Vinodh/CLionProjects/BinaryTreeTraversal/main.cpp
+iostream
+-
+stdlib.h
+-
+ctype.h
+-
+
