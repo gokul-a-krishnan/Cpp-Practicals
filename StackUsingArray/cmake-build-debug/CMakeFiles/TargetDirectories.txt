@@ -1,0 +1,3 @@
+D:/CLionProjects/StackUsingArray/cmake-build-debug/CMakeFiles/StackUsingArray.dir
+D:/CLionProjects/StackUsingArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/StackUsingArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

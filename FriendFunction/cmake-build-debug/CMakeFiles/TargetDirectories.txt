@@ -1,0 +1,3 @@
+C:/Users/Vinodh/CLionProjects/FriendFunction/cmake-build-debug/CMakeFiles/FriendFunction.dir
+C:/Users/Vinodh/CLionProjects/FriendFunction/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vinodh/CLionProjects/FriendFunction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
