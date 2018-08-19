@@ -1,0 +1,3 @@
+C:/Users/Vinodh/CLionProjects/PostfixEvaluation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vinodh/CLionProjects/PostfixEvaluation/cmake-build-debug/CMakeFiles/PostfixEvaluation.dir
+C:/Users/Vinodh/CLionProjects/PostfixEvaluation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
